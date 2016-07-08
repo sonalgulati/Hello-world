@@ -1,3 +1,3 @@
 # Hello-world
 example repo
-Hi...i'm rrally liking Github. Ihope i can learn to use it efficiently.
+Hi...i'm really liking Github. I hope i can learn to use it efficiently.
